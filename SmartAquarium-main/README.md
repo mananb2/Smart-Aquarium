@@ -7,34 +7,19 @@
 *** https://www.markdownguide.org/basic-syntax/#reference-style-links
 -->
 
-[![Forks][forks-shield]][forks-url]
-[![Stargazers][stars-shield]][stars-url]
-[![Issues][issues-shield]][issues-url]
-[![MIT License][license-shield]][license-url]
 
 
 <div id="top"></div>
 
-<!-- PROJECT LOGO -->
-<br />
-<div align="center">
-  <a href="https://github.com/UnibucProjects/SmartAquarium">
-    <img src="https://smartbrandaquariums.files.wordpress.com/2020/01/cropped-logo-smart-brands.png" alt="Logo" width="200">
-  </a>
+
+
 
   <h3 align="center">Smart Aquarium</h3>
 
   <p align="center">
     The application is a mock IoT device, simulating a Smart Aquarium 
     <br />
-    <a href="https://docs.google.com/document/d/10eDxDCgwnqeRekGz2bW9aIY8jzL7HC1c0HLMZZPzC9k/edit?usp=sharing"><strong>Explore the docs »</strong></a>
-    <br />
-    <br />
-    <a href="https://github.com/UnibucProjects/SmartAquarium/issues">Report Bug</a>
-    ·
-    <a href="https://github.com/UnibucProjects/SmartAquarium/issues">Request Feature</a>
-  </p>
-</div>
+ 
 
 <!-- TABLE OF CONTENTS -->
 <details>
